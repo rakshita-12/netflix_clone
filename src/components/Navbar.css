@@ -1,0 +1,16 @@
+.navbar { 
+position: fixed; 
+top: 0; 
+width: 100%; 
+padding: 20px; 
+z-index: 100; 
+display: flex; 
+justify-content: space-between; 
+background: black; 
+} 
+.navbar_logo { 
+width: 120px; 
+} 
+.navbar_avatar { 
+width: 40px; 
+}
